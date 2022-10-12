@@ -1,7 +1,7 @@
 # Напишите программу для. проверки истинности утверждения ¬(X ⋁ Y ⋁ Z) = ¬X ⋀ ¬Y ⋀ ¬Z для всех значений предикат.
 import os 
 
-os.system('clear')
+os.system('cls')
 
 def Truth ():
     result = True
